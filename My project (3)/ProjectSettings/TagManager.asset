@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Elevation1
+    uniqueID: 3725875535
+    locked: 0
+  - name: Elevation2
+    uniqueID: 1284345227
+    locked: 0
+  - name: Elevation3
+    uniqueID: 3481812961
+    locked: 0
+  - name: Elevation4
+    uniqueID: 942729571
+    locked: 0
